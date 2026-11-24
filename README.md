@@ -2,7 +2,11 @@
 
 Interactive MATLAB app that generates a random multi-tone signal, samples it, checks for aliasing, plots its FFT, fits a pole model in the z-plane and checks stability. Every number the app reports is backed by a measured accuracy test.
 
-**Built:** November 2025 · Digital Signal Processing course project
+**Built:** Fall 2025 · Digital Signal Processing course project
+
+<p align="center">
+  <img src="media/app_screenshot.png" width="100%" alt="DSP Signal Analyzer: 4-tone signal sampled at 150 Hz, AR(18) poles on the unit circle, FFT and log">
+</p>
 
 <p align="center">
   <img src="media/zplane_ar.png" width="45%" alt="Z-plane: AR poles on the unit circle at the tone frequencies">
